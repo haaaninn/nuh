@@ -1,0 +1,20 @@
+online-enrollment/
+├── app.py
+├── models.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── README.md
+├── static/
+│   ├── css/style.css
+│   └── uploads/.gitkeep
+└── templates/
+    ├── base.html
+    ├── landing.html
+    ├── register.html
+    ├── login.html
+    ├── dashboard.html
+    ├── courses.html
+    ├── enroll.html
+    ├── enrollments.html
+    └── edit_enrollment.html
