@@ -1,0 +1,4 @@
+SECRET_KEY=change-this-to-a-long-random-string
+DATABASE_URL=sqlite:///enrollment.db
+FLASK_APP=app.py
+FLASK_DEBUG=1
